@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &778198274612723070
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7814884604533888976, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: Marker2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7814884604533888976, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.145
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.1251
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8720520020869876891, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283200905255, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283200905255, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283226399558, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283226399558, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283239095153, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283239095153, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283403932180, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283403932180, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283447862197, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283447862197, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283559307334, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283610973791, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283610973791, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283674840397, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588283674840397, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284022043258, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284022043258, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284285791831, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284285791831, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284320501632, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284746000831, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284746000831, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284783158092, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: sidecollider
+      objectReference: {fileID: 0}
+    - target: {fileID: 8947588284783158092, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8986529106351499165, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_Name
+      value: butt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8986529106351499165, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}
+      propertyPath: m_TagString
+      value: DestroyObject
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4e02033ac249eb04c929fdcdb4fa22ab, type: 3}

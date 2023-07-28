@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2928253080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39f46275891857a4b8bb1158be4bffcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d32290e67067481e95786723f9c8485
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/ItemPrefabs/shit/PUF1.prefab
+Dependencies: []

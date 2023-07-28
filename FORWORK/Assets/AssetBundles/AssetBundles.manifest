@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1871406529
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tumbabig1
+      Dependencies: {}
+    Info_1:
+      Name: tumba pod obuv1
+      Dependencies: {}
+    Info_2:
+      Name: stol1
+      Dependencies: {}
+    Info_3:
+      Name: shkaf1
+      Dependencies: {}
+    Info_4:
+      Name: puf1
+      Dependencies: {}
+    Info_5:
+      Name: poster1
+      Dependencies: {}
+    Info_6:
+      Name: oborud1
+      Dependencies: {}
+    Info_7:
+      Name: noseship1
+      Dependencies: {}
+    Info_8:
+      Name: middleship1
+      Dependencies: {}
+    Info_9:
+      Name: kreslo1
+      Dependencies: {}
+    Info_10:
+      Name: katana1
+      Dependencies: {}
+    Info_11:
+      Name: backship1
+      Dependencies: {}
